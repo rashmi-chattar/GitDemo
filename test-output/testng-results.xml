@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83" started-at="2020-01-17T15:40:47 IST" finished-at="2020-01-17T15:40:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83" started-at="2020-01-17T15:40:47 IST" finished-at="2020-01-17T15:40:47 IST">
+      <class name="Skillset.AppiumTest">
+        <test-method status="PASS" signature="MobileAutomation()[pri:0, instance:Skillset.AppiumTest@536aaa8d]" name="MobileAutomation" duration-ms="9" started-at="2020-01-17T15:40:47 IST" finished-at="2020-01-17T15:40:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+        <test-method status="PASS" signature="Mobileautomation1()[pri:0, instance:Skillset.AppiumTest@536aaa8d]" name="Mobileautomation1" duration-ms="1" started-at="2020-01-17T15:40:47 IST" finished-at="2020-01-17T15:40:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobileautomation1 -->
+      </class> <!-- Skillset.AppiumTest -->
+      <class name="Skillset.RESTAPITest">
+        <test-method status="PASS" signature="RestApi1()[pri:0, instance:Skillset.RESTAPITest@e320068]" name="RestApi1" duration-ms="1" started-at="2020-01-17T15:40:47 IST" finished-at="2020-01-17T15:40:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApi1 -->
+        <test-method status="PASS" signature="RestApi2()[pri:0, instance:Skillset.RESTAPITest@e320068]" name="RestApi2" duration-ms="3" started-at="2020-01-17T15:40:47 IST" finished-at="2020-01-17T15:40:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApi2 -->
+      </class> <!-- Skillset.RESTAPITest -->
+      <class name="Skillset.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Skillset.SeleniumTest@1f57539]" name="BrowserAutomation" duration-ms="2" started-at="2020-01-17T15:40:47 IST" finished-at="2020-01-17T15:40:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="BrowserAutomation1()[pri:0, instance:Skillset.SeleniumTest@1f57539]" name="BrowserAutomation1" duration-ms="6" started-at="2020-01-17T15:40:47 IST" finished-at="2020-01-17T15:40:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation1 -->
+      </class> <!-- Skillset.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

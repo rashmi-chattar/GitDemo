@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-17T15:36:42 IST" name="Surefire suite" finished-at="2020-01-17T15:36:42 IST" duration-ms="117">
+    <groups>
+    </groups>
+    <test started-at="2020-01-17T15:36:42 IST" name="Surefire test" finished-at="2020-01-17T15:36:42 IST" duration-ms="117">
+      <class name="Skillset.AppiumTest">
+        <test-method signature="MobileAutomation()[pri:0, instance:Skillset.AppiumTest@701fc37a]" started-at="2020-01-17T15:36:42 IST" name="MobileAutomation" finished-at="2020-01-17T15:36:42 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+        <test-method signature="Mobileautomation1()[pri:0, instance:Skillset.AppiumTest@701fc37a]" started-at="2020-01-17T15:36:42 IST" name="Mobileautomation1" finished-at="2020-01-17T15:36:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobileautomation1 -->
+      </class> <!-- Skillset.AppiumTest -->
+      <class name="Skillset.RESTAPITest">
+        <test-method signature="RestApi1()[pri:0, instance:Skillset.RESTAPITest@4148db48]" started-at="2020-01-17T15:36:42 IST" name="RestApi1" finished-at="2020-01-17T15:36:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApi1 -->
+        <test-method signature="RestApi2()[pri:0, instance:Skillset.RESTAPITest@4148db48]" started-at="2020-01-17T15:36:42 IST" name="RestApi2" finished-at="2020-01-17T15:36:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApi2 -->
+      </class> <!-- Skillset.RESTAPITest -->
+      <class name="Skillset.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:Skillset.SeleniumTest@282003e1]" started-at="2020-01-17T15:36:42 IST" name="BrowserAutomation" finished-at="2020-01-17T15:36:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="BrowserAutomation1()[pri:0, instance:Skillset.SeleniumTest@282003e1]" started-at="2020-01-17T15:36:42 IST" name="BrowserAutomation1" finished-at="2020-01-17T15:36:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation1 -->
+      </class> <!-- Skillset.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
